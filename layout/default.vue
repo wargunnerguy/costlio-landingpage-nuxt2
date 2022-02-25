@@ -8,3 +8,5 @@ export default {
 }
 </script>
 
+näita stackoverflow v googlest otsimine
+css
