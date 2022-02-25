@@ -15,16 +15,16 @@ Table of contents
 12. portfolio
 
 --------------------------------------------- */
-/* 
+/*
 ---------------------------------------------
 font & reset css
---------------------------------------------- 
+---------------------------------------------
 */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 /*
 ---------------------------------------------
 reset
---------------------------------------------- 
+---------------------------------------------
 */
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, div
 pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q,
@@ -127,10 +127,10 @@ img {
   overflow: hidden;
 }
 
-/* 
+/*
 ---------------------------------------------
 global styles
---------------------------------------------- 
+---------------------------------------------
 */
 html,
 body {
@@ -834,7 +834,7 @@ Banner Style
 
 .main-banner:after {
   content: '';
-  background-image: url(../images/baner-dec-left.png);
+  background-image: url(static/images/baner-dec-left.png);
   background-repeat: no-repeat;
   position: absolute;
   left: 0;
@@ -845,7 +845,7 @@ Banner Style
 
 .main-banner:before {
   content: '';
-  background-image: url(../images/baner-dec-right.png);
+  background-image: url(static/images/baner-dec-right.png);
   background-repeat: no-repeat;
   position: absolute;
   right: 0;
@@ -940,7 +940,7 @@ About Us Style
 }
 
 .about-us {
-  background-image: url(../images/about-bg.png);
+  background-image: url(static/images/about-bg.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1286,7 +1286,7 @@ contact
 
 .contact-us {
   padding: 160px 0px;
-  background-image: url(../images/contact-bg.png);
+  background-image: url(static/images/contact-bg.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1426,10 +1426,10 @@ footer p a {
   color: #ffbe0b;
 }
 
-/* 
+/*
 ---------------------------------------------
 responsive
---------------------------------------------- 
+---------------------------------------------
 */
 
 @media (max-width: 1645px) {

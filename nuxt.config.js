@@ -43,10 +43,10 @@ export default {
   },
 
   css: [
-    '~/static/css/templatemo-space-dynamic',
-    '~/static/css/custom',
-    '~/static/css/fontawesome',
-    '~/static/css/animated',
+    '~/assets/css/templatemo-space-dynamic',
+    '~/assets/css/custom',
+    '~/assets/css/fontawesome',
+    '~/assets/css/animated',
     '~/node_modules/bootstrap/dist/css/bootstrap.css'
   ],
 

@@ -52,7 +52,7 @@
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
             <a href="index.html" class="logo">
-              <img src="images/logo/Costlio-logo_450_thin.png" style="width: 200px; height: auto"/>
+              <img src="/images/logo/Costlio-logo_450_thin.png" style="width: 200px; height: auto"/>
               <!--              <h4>costl<span>io</span></h4>-->
             </a>
             <!-- ***** Logo End ***** -->
@@ -95,7 +95,7 @@
                 <p>Mine speqagri.ee lehte uurima</p>
               </div>
               <div class="showed-content">
-                <img src="images/tehtud/speqagri.PNG" alt="">
+                <img src="/images/tehtud/speqagri.PNG" alt="">
               </div>
             </div>
           </a>
@@ -108,7 +108,7 @@
                 <p>Mine speq.ee e-poodi uurima</p>
               </div>
               <div class="showed-content">
-                <img src="images/tehtud/speq.PNG" alt="">
+                <img src="/images/tehtud/speq.PNG" alt="">
               </div>
             </div>
           </a>
@@ -121,7 +121,7 @@
                 <p>Mine fekaaliabi.ee lehte uurima</p>
               </div>
               <div class="showed-content">
-                <img src="images/tehtud/fekaaliabi.png" alt="">
+                <img src="/images/tehtud/fekaaliabi.png" alt="">
               </div>
             </div>
           </a>
@@ -134,7 +134,7 @@
                 <p>Mine imperagrupp.ee lehele</p>
               </div>
               <div class="showed-content">
-                <img src="images/tehtud/impera.PNG" alt="">
+                <img src="/images/tehtud/impera.PNG" alt="">
               </div>
             </div>
           </a>
@@ -147,7 +147,7 @@
                 <p>Logo speq.ee e-poe jaoks.</p>
               </div>
               <div class="showed-content">
-                <img src="images/tehtud/SPEQ_logo_169.png" alt="">
+                <img src="/images/tehtud/SPEQ_logo_169.png" alt="">
               </div>
             </div>
           </a>
@@ -161,27 +161,27 @@
 
           <div class="row" data-aos="zoom-in">
             <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-              <img src="images/partners/wordpress.svg" class="img-fluid" alt="">
+              <img src="/images/partners/wordpress.svg" class="img-fluid" alt="">
             </div>
 
             <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-              <img src="images/partners/woocommerce.svg" class="img-fluid" alt="">
+              <img src="/images/partners/woocommerce.svg" class="img-fluid" alt="">
             </div>
 
             <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-              <img src="images/partners/montonio.svg" class="img-fluid" alt="">
+              <img src="/images/partners/montonio.svg" class="img-fluid" alt="">
             </div>
 
             <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-              <img src="images/partners/vuejs.png" class="img-fluid" alt="">
+              <img src="/images/partners/vuejs.png" class="img-fluid" alt="">
             </div>
 
             <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-              <img src="images/partners/HTML5.png" class="img-fluid" alt="">
+              <img src="/images/partners/HTML5.png" class="img-fluid" alt="">
             </div>
 
             <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-              <img src="images/partners/Node.js.svg" class="img-fluid" alt="">
+              <img src="/images/partners/Node.js.svg" class="img-fluid" alt="">
             </div>
 
           </div>
@@ -213,7 +213,7 @@
             </div>
             <div class="col-lg-4">
               <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
-                <img src="images/banner-right-image.png" alt="team meeting">
+                <img src="/images/banner-right-image.png" alt="team meeting">
               </div>
             </div>
           </div>
@@ -226,7 +226,7 @@
       <div class="row">
         <div class="col-lg-4">
           <div class="left-image wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
-            <img src="images/about-left-image.png" alt="person graphic">
+            <img src="/images/about-left-image.png" alt="person graphic">
           </div>
         </div>
         <div class="col-lg-8 align-self-center">
@@ -235,7 +235,7 @@
               <div class="col-lg-6">
                 <div class="item wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
                   <div class="icon">
-                    <img src="images/epood-icon.png" alt="reporting">
+                    <img src="/images/epood-icon.png" alt="reporting">
                   </div>
                   <div class="right-text">
                     <h4>E-pood</h4>
@@ -247,7 +247,7 @@
               <div class="col-lg-6">
                 <div class="item wow fadeIn" data-wow-duration="1s" data-wow-delay="0.7s">
                   <div class="icon">
-                    <img src="images/logo-icon.png" alt="">
+                    <img src="/images/logo-icon.png" alt="">
                   </div>
                   <div class="right-text">
                     <h4>Logo</h4>
@@ -259,7 +259,7 @@
               <div class="col-lg-6">
                 <div class="item wow fadeIn" data-wow-duration="1s" data-wow-delay="0.9s">
                   <div class="icon">
-                    <img src="images/analytics-icon.png" alt="">
+                    <img src="/images/analytics-icon.png" alt="">
                   </div>
                   <div class="right-text">
                     <h4>Analüütika</h4>
@@ -271,7 +271,7 @@
               <div class="col-lg-6">
                 <div class="item wow fadeIn" data-wow-duration="1s" data-wow-delay="1.1s">
                   <div class="icon">
-                    <img src="images/seo-icon.png" alt="">
+                    <img src="/images/seo-icon.png" alt="">
                   </div>
                   <div class="right-text">
                     <h4>SEO - veebileht kergelt leitavaks</h4>
@@ -437,7 +437,7 @@
       <!-- Team item-->
       <div class="col-xl-3 col-sm-4 mb-5">
         <div class="bg-white rounded shadow-sm py-5 px-4"><img
-          src="images/kristjan_DP.png" alt="" width="100"
+          src="/images/kristjan_DP.png" alt="" width="100"
           class=" rounded-circle mb-3 img-thumbnail shadow-sm">
           <h5 class="mb-0">Kristjan Kuldmaa</h5><span
             class="small text-uppercase text-muted">Turundus, marketing</span>
@@ -454,7 +454,7 @@
       <!-- Team item-->
       <div class="col-xl-3 col-sm-4 mb-5">
         <div class="bg-white rounded shadow-sm py-5 px-4"><img
-          src="images/reimo_DP.png" alt="" width="100"
+          src="/images/reimo_DP.png" alt="" width="100"
           class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
           <h5 class="mb-0">Reimo Vellemaa</h5><span class="small text-uppercase text-muted">Arendus, Disain</span>
           <ul class="social mb-0 list-inline mt-3">
@@ -488,7 +488,7 @@
         <div class="col-lg-6 wow fadeInRight" data-wow-duration="0.5s" data-wow-delay="0.25s">
           <div class="col-lg-4 float-end">
             <div class="contact-dec">
-              <img src="images/contact-decoration.png" alt="">
+              <img src="/images/contact-decoration.png" alt="">
             </div>
           </div>
         </div>
